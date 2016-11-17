@@ -2,6 +2,26 @@
 
 
 /* Start the CSS*/
+@font-face {
+    font-family: 'aaarghnormal';
+    src: url('aaargh-webfont.woff2') format('woff2'),
+         url('aaargh-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'cinzelregular';
+    src: url('cinzel-regular-webfont.woff2') format('woff2'),
+         url('cinzel-regular-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
 body {
 	margin: 0;
 	padding: 0;
